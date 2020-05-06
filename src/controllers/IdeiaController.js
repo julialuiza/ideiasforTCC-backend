@@ -1,6 +1,6 @@
 const axios = require('axios');
 const Ideia = require('../models/Ideia');
-const parseStringAsArray = require('../utils/parseStringAsarray');
+//const parseStringAsArray = require('../utils/parseStringAsarray').default;
 
 
 module.exports = {
